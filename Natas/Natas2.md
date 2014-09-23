@@ -15,7 +15,7 @@ Step 2: <b><br>
 After I concluded that the header code was useless, I looked further down the code and saw a path to an image file, "img src="files/pixel.png">".
 
 Step 3: <b><br>
-Since I have some expirience with web servers, I knew i could append a path at the end of the url to access files. The pixel.png file itself isn't important, but the fact that it's contained within a folder named "files"
+Since I have some experience with web servers, I knew i could append a path at the end of the url to access files. The pixel.png file itself isn't important, but the fact that it's contained within a folder named "files"
 
 Step 4: <b><br>
 After navagating to the files page, I saw users.txt, and within that file was the password to the next level.
