@@ -1,7 +1,7 @@
 Natas-Solutions
 ==========================
 
-Natas00
+Natas0
 --------------------------
 
 This isn't even a warmup, but hey, its only level 0.
