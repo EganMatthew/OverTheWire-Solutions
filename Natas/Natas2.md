@@ -8,7 +8,7 @@ Natas2
 
 Step 1: <b><br>
 In the first step, i examined the code of the webpage like normal, but this time, I had to be a little bit more clever about finding the password. Notice a comment that says, "<!-- This stuff in the header has nothing to do with the level -->"
-<b>
+<b><br>
 My natural reaction to that line was, "I'll see about that", and it turns out in the end it was telling the truth. Examining the code within the header is interesting, but not what we're looking for.
 
 Step 2: <b><br>
